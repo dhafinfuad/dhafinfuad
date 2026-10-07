@@ -40,11 +40,11 @@
 
 | Kategori | Teknologi & Tools |
 | :--- | :--- |
-| **Backend & Core Runtime** | ![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **Frontend & Interactivity** | ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black) ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Database & ORM** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Eloquent ORM](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) |
+| **Backend & Core Runtime** | ![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Frontend & Interactivity** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Svelte](https://img.shields.io/badge/Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit_2-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black) ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) |
+| **Database & Storage** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![IndexedDB](https://img.shields.io/badge/IndexedDB-4B5563?style=flat-square&logo=databricks&logoColor=white) ![Eloquent ORM](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) |
 | **Visualisasi Data & Grafis** | ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) ![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white) ![vis--network](https://img.shields.io/badge/vis--network-97C0F8?style=flat-square&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) |
-| **Infrastruktur & Dev Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell_WMI-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Nginx / Apache](https://img.shields.io/badge/Web_Server-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **Infrastruktur & Dev Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell_WMI-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify_CI%2FCD-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Nginx / Apache](https://img.shields.io/badge/Web_Server-009639?style=flat-square&logo=nginx&logoColor=white) |
 
 </div>
 
@@ -58,9 +58,22 @@
 
 ---
 
-### 🚀 Karya & Sistem Unggulan
+### 🚀 Karya & Sistem Unggulan (6 Solusi Rekayasa Nyata)
 
-Berikut adalah beberapa sistem informasi internal yang dirancang dan diimplementasikan untuk memodernisasi tata kelola operasional:
+Portofolio ini mengompilasi 6 karya aplikasi dan sistem informasi arsitektur nyata yang dirancang dan diimplementasikan untuk memodernisasi tata kelola operasional, pemantauan infrastruktur, serta solusi utilitas publik:
+
+| No | Proyek | Kategori | Ringkasan Fungsional | Tech Stack Inti |
+| :---: | :--- | :---: | :--- | :--- |
+| **01** | **Sarana** | Web App | **Sistem Informasi Terpadu Digitalisasi Operasional**: Peminjaman armada dinas, perizinan keluar kantor dinas, tata kelola persuratan digital, dan manajemen inventori persediaan ATK secara akuntabel. | PHP 8.3, Laravel, Livewire, Tailwind CSS v4, Alpine.js, MySQL |
+| **02** | **Matador** | Web App | **Sistem Monitoring & Evaluasi Pengawasan WP**: Otomatisasi bedah profil WP, validasi kuantitas-kualitas output kinerja AR, serta visualisasi metrik eksekutif berbasis analitik data. | PHP 8.3, Laravel 13, Tailwind CSS v4, Alpine.js, MySQL, Chart.js |
+| **03** | **NetRadar** | Web App | **Manajemen Aset Jaringan & IPAM Terpadu**: Monitoring infrastruktur jaringan real-time, visualisasi topologi interaktif, audit spesifikasi hardware otomatis via PowerShell WMI, & tata kelola aset TI. | Python 3.11, FastAPI, vis-network, SSE Real-Time, PowerShell WMI, Docker |
+| **04** | **Panel Pegawai** | Web App | **Sistem Informasi Manajemen Kepegawaian Terpadu**: Dasbor analitik data demografi aparatur, manajemen riwayat penunjukan PLH/PLT, peta sebaran domisili, & sinkronisasi berkas digital. | Python 3.11, Flask, SQLAlchemy, HTMX, Chart.js, Leaflet.js, Docker |
+| **05** | **Masjid Salahuddin** | Web App & PWA | **Sistem Informasi Manajemen Masjid & Portal Jamaah Terpadu**: Otomasi jadwal shalat hisab & roster imam/muadzin, kalender kajian, akuntansi kas, TV digital signage, & portal PWA offline. | PHP 8.3, Laravel 11, Livewire 3, Alpine.js, Tailwind CSS, MySQL, PWA |
+| **06** | **Drops Daily** | PWA & Web App | **Aplikasi Pelacak & Pengingat Hidrasi Cerdas (AKG Kemenkes)**: Arsitektur local-first tanpa akun, kalkulator adaptif AKG 2019, porsi realistis Indonesia, Web Push, & PWA offline penuh. | Svelte 5, SvelteKit 2, TypeScript, Tailwind CSS v4, IndexedDB, PWA, Web Push |
+
+<br />
+
+Berikut kartu rangkuman komparatif sistem informasi internal & aplikasi yang dirancang dan diimplementasikan:
 
 <table>
   <tr>
@@ -99,9 +112,27 @@ Berikut adalah beberapa sistem informasi internal yang dirancang dan diimplement
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕌 05. Masjid Salahuddin</h3>
+      <p><strong>Sistem Informasi Manajemen Masjid & Portal Jamaah Terpadu</strong></p>
+      <p>Platform peribadatan terpadu & tata kelola DKM: otomasi jadwal shalat hisab akurat & roster imam/muadzin, kalender kajian & risalah dakwah, akuntansi kas & program donasi sosial, TV digital signage, serta portal jamaah offline-capable (PWA).</p>
+      <p>
+        <code>PHP 8.3</code> • <code>Laravel 11</code> • <code>Livewire 3</code> • <code>Alpine.js</code> • <code>Tailwind CSS</code> • <code>MySQL</code> • <code>PWA</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💧 06. Drops Daily</h3>
+      <p><strong>Aplikasi Pelacak & Pengingat Hidrasi Cerdas (AKG Kemenkes)</strong></p>
+      <p>Solusi kesehatan preventif berbasis standar medis AKG Kemenkes RI 2019: arsitektur local-first tanpa akun login, kalkulator kebutuhan cairan adaptif, wadah porsi realistis Indonesia, analitik tren konsumsi, serta Web Push Notification & PWA offline penuh.</p>
+      <p>
+        <code>Svelte 5</code> • <code>SvelteKit 2</code> • <code>TypeScript</code> • <code>Tailwind CSS v4</code> • <code>IndexedDB</code> • <code>PWA</code> • <code>Web Push</code>
+      </p>
+    </td>
+  </tr>
 </table>
 
-> 🔍 *Detail studi kasus arsitektur, tangkapan layar, dan diagram alur dari seluruh aplikasi di atas dapat dieksplorasi langsung di [Portofolio Web Dhafin Fuad](https://dhafinfuad.netlify.app#portofolio).*
+> 🔍 *Detail studi kasus arsitektur, tangkapan layar resolusi tinggi, dan diagram alur dari seluruh aplikasi di atas dapat dieksplorasi langsung di [Portofolio Web Dhafin Fuad](https://dhafinfuad.netlify.app#portofolio).*
 
 ---
 
